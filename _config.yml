@@ -1,0 +1,7 @@
+title: Bite Book
+theme: jekyll-theme-primer
+
+# Prevent Jekyll from processing backend code and node_modules
+exclude:
+  - node_modules
+  - Wisflux-Assignment-2/backend
